@@ -56,6 +56,17 @@ Thumbs.db
 *.tmp
 *.temp
 
+# Experiment logs
+logs_*.txt
+full_experiment.log
+rerun_*.log
+
+# Temporary scripts
+run_*.sh
+
+# New results (use results/ for final)
+results_new/
+
 .ipynb_checkpoints/
 *.ipynb
 
